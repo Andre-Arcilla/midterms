@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\midterms\midterms\bin\Debug\net8.0\midterms.exe
+C:\Users\Andre\source\repos\midterms\midterms\bin\Debug\net8.0\midterms.deps.json
+C:\Users\Andre\source\repos\midterms\midterms\bin\Debug\net8.0\midterms.runtimeconfig.json
+C:\Users\Andre\source\repos\midterms\midterms\bin\Debug\net8.0\midterms.dll
+C:\Users\Andre\source\repos\midterms\midterms\bin\Debug\net8.0\midterms.pdb
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.AssemblyInfo.cs
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.dll
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\refint\midterms.dll
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.pdb
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\midterms.genruntimeconfig.cache
+C:\Users\Andre\source\repos\midterms\midterms\obj\Debug\net8.0\ref\midterms.dll
